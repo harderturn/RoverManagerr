@@ -1,0 +1,13 @@
+C:\Users\burak.kacar\source\repos\RoverManager\bin\Debug\netcoreapp3.1\RoverManager.exe
+C:\Users\burak.kacar\source\repos\RoverManager\bin\Debug\netcoreapp3.1\RoverManager.deps.json
+C:\Users\burak.kacar\source\repos\RoverManager\bin\Debug\netcoreapp3.1\RoverManager.runtimeconfig.json
+C:\Users\burak.kacar\source\repos\RoverManager\bin\Debug\netcoreapp3.1\RoverManager.runtimeconfig.dev.json
+C:\Users\burak.kacar\source\repos\RoverManager\bin\Debug\netcoreapp3.1\RoverManager.dll
+C:\Users\burak.kacar\source\repos\RoverManager\bin\Debug\netcoreapp3.1\RoverManager.pdb
+C:\Users\burak.kacar\source\repos\RoverManager\obj\Debug\netcoreapp3.1\RoverManager.csprojAssemblyReference.cache
+C:\Users\burak.kacar\source\repos\RoverManager\obj\Debug\netcoreapp3.1\RoverManager.AssemblyInfoInputs.cache
+C:\Users\burak.kacar\source\repos\RoverManager\obj\Debug\netcoreapp3.1\RoverManager.AssemblyInfo.cs
+C:\Users\burak.kacar\source\repos\RoverManager\obj\Debug\netcoreapp3.1\RoverManager.csproj.CoreCompileInputs.cache
+C:\Users\burak.kacar\source\repos\RoverManager\obj\Debug\netcoreapp3.1\RoverManager.dll
+C:\Users\burak.kacar\source\repos\RoverManager\obj\Debug\netcoreapp3.1\RoverManager.pdb
+C:\Users\burak.kacar\source\repos\RoverManager\obj\Debug\netcoreapp3.1\RoverManager.genruntimeconfig.cache
